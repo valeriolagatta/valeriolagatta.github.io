@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Valerio's Homepage"
 title_separator          : "-"
 name                     : &name "Valerio La Gatta"
 description              : &description "Postdoc @NSAIL"
@@ -25,7 +25,7 @@ author:
   name             : "Valerio La Gatta"
   pronouns         : "he/him" 
   bio              : "Postdoc @NSAIL"
-  location         : "Earth"
+  location         : "Evanston, IL, United States"
   employer         : "Northwestern University"
   uri              : # URL
   email            : "valerio.lagatta@northwestern.edu" 
