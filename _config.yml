@@ -21,7 +21,7 @@ repository               : "valeriolagatta/valeriolagatta.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image_profile.png"
   name             : "Valerio La Gatta"
   pronouns         : "he/him" 
   bio              : "Short biography for the left-hand sidebar"
