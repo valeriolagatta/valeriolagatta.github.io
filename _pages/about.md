@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher in the Northerstern Security and Artificial Intelligence (NSAIL) lab at Northwestern University. I am also affiliated with the University of Naples Federico II where I got my PhD. I have also been a Visiting Scholar at the University of Southern California’s Information Sciences Institute.
+I am a Postdoctoral Researcher in the Northerstern Security and Artificial Intelligence Lab (NSAIL)  at Northwestern University. I am also affiliated with the University of Naples Federico II where I got my PhD. I have also been a Visiting Scholar at the University of Southern California’s Information Sciences Institute.
 
 My research...
 
