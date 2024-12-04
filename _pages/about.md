@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my personal website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Welcome to my personal website!
 
 I am a Postdoctoral Researcher in the Northerstern Security and Artificial Intelligence (NSAIL) lab at Northwestern University. I am also affiliated with the University of Naples Federico II where I got my PhD. I have also been a Visiting Scholar at the University of Southern California’s Information Sciences Institute.
 
